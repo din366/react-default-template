@@ -22,7 +22,7 @@
 <p>Для работы с приложением:</p>
 
 ## Запуск production сборки:
-### `npm run build`
+### `npm run build:prod`
 
 - сборка и оптимизация приложения в папке dist для деплоя.
 
@@ -30,7 +30,7 @@
 ### `npm run start`
 
 ## Запуск dev-сборки без запуска сервера:
-### `npm run build`
+### `npm run build:dev`
 
 ## Очистка папки dist:
 ### `npm run clear`
