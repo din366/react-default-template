@@ -14,8 +14,8 @@
 # 4 варианта запуска сборки:
 <ul>
   <li>start - сборка development билда с запуском сервера webpack-dev-server + hot reload</li>
-  <li>dev - сборка development билда без запуска сервера</li>
-  <li>build - сборка production билда</li>
+  <li>build:dev - сборка development билда без запуска сервера</li>
+  <li>build:prod - сборка production билда</li>
   <li>clear - очистка папки dist</li>
 </ul>
 
